@@ -13,6 +13,8 @@ Built with:
 ![ProtoStaxAG_WeatherStation](ProtoStaxAG_WeatherStation2.png)
 ![ProtoStaxAG_WeatherStation](ProtoStaxAG_WeatherStationBack.png)
 
+For further instructions, see [Weather Station with Indoor & Outdoor data](https://www.hackster.io/sridhar-rajagopal/weather-station-with-indoor-outdoor-data-2a7b44)
+
 ## Prerequisites
 
 Hook up the Adafruit BME280 to your Arduino Giga R1. You can use a prototyping shield to simplify connections. 

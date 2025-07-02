@@ -1,0 +1,15 @@
+profiles:
+  arduinogigadisplay:
+    fqbn: arduino:mbed_giga:giga
+    platforms:
+      - platform: arduino:mbed_giga (4.3.1)
+    libraries:
+      - lvgl (9.3.0)
+      - Arduino_BMI270_BMM150 (1.2.1)
+      - Arduino_GigaDisplay (1.0.2)
+      - Arduino_GigaDisplayTouch (1.0.1)
+      - Adafruit BME280 Library (2.3.0)
+      - Adafruit BusIO (1.17.1)
+      - Adafruit Unified Sensor (1.1.15)
+      - ArduinoJson (7.4.2)
+

@@ -63,10 +63,11 @@ This demo uses Open Weather Map to get the outdoor temperature, humidity and pre
 Create an arduino_secrets.h and populate it with your WiFi SSID, password, and Open Weather Map API Key:
 
 Define the following in your arduino_secrets.h file (create this file in this folder):
+```
    #define SECRET_SSID "YOUR_SSID"
    #define SECRET_PASS "YOUR_WIFI_PASSWORD"
    #define SECRET_OWM_API_KEY "YOUR_OWM_API_KEY"
-
+```
 You will also need to update the lv_conf_9.h to enable LV_FONT_MONTSERRAT_28 (font size 28):
 
 if you're using arduino-cli, update:
